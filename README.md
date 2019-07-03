@@ -89,7 +89,7 @@ Create an Agent [configuration](#config) file based on the options described
 below. By default, the Agent has the `opencensus` receiver enabled, but no
 exporters configured.
 
-Build the Agent, see [Usage](##agent-usage),
+Build the Agent, see [Usage](#agent-usage),
 and start it:
 
 ```shell
